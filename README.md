@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Adelafuente2
 - 👀 I’m interested in sports, movies, and travel   
-- 🌱 I’m currently learning how to IT 
+- 🌱 I’m currently learning how to Phyton
 - 💞️ I’m looking to collaborate on basic beginner level items
-- 📫 How to reach me adelafuente@student.umgc.edu
+- 📫 How to reach me adelafuente2@student.umgc.edu
 
 <!---
 Adelafuente2/Adelafuente2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
